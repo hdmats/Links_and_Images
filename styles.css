@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Geo;
+    src: url(Fonts/GeosansLight.ttf);
+}
+@font-face {
+    font-family: Road;
+    src: url(Fonts/Roadgeek\ 2005\ Series\ 1B\ Regular.ttf);
+}
+h1 {color:#5E6A4B; font-size: 80px; font-weight: bold; font-family: Road; margin: 0px;}
+h2 {font-weight:bold; color:#A1A491; font-size: 30px; font-family: Road;}
+h3 {color:#A1A491; font-size: 20px; font-family: Geo;}
+h4 {color:#003366; font-size: 25px; font-family: Road;}
+h5 {color:#5E6A4B; font-size: 20px; font-family: Geo;}
+p {font-size: 18px; font-family: Geo;Color:#616161}
+body{background-color:#E2D7CB;}

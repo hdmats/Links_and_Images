@@ -1,0 +1,36 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120 120" width="500" height="500">
+  <!-- Outside Circle-->
+    <circle cx="60" cy="60" r="55" stroke="#5E6A4B" fill="#5E6A4B" stroke-width="4"/>
+  <!--White Border-->
+    <circle cx="60" cy="60" r="55" fill="transparent" stroke="white" />
+  <!--Mountian lines-->
+    <polyline points= "20 55, 55 20, 75 45" fill="transparent" stroke="white" stroke-width="2" />
+    <polyline points= "50 25, 55 20, 60 25" fill="white" stroke-width="2"/>
+    <polyline points= "70 40, 80 30, 100 55" fill="transparent" stroke="white" stroke-width="2"/>
+  <polyline points= "75 35, 80 30, 85 35" fill="white" stroke-width="2"/>
+  <!--Path that leads into the mountians-->
+  <circle cx="54.9" cy="60" r=".75" stroke="white" fill="white" stroke-width=".5"/>
+    <path d="M 55 60 C 72 70, 75 80, 65 105" stroke="white" fill="transparent" stroke-width="2"/>
+    <path d="M 55 60 C 55 65, 70 75, 40 105" stroke="white" fill="transparent" stroke-width="2"/>
+  <!--Bottom Left Tree-->
+  <!--Tree Trunk-->
+<line x1="90" y1="90" x2="90" y2="65" stroke="white" stroke-width="2"/>
+  <!--Bottom Branch-->
+    <polyline points=" 85 85, 90 80, 95 85" fill="transparent" stroke="white" stroke-width="2" />
+  <!--Branch Second from the Bottom-->
+    <polyline points=" 85 80, 90 75, 95 80" fill="transparent" stroke="white" stroke-width="2" />
+  <!--Branch Second from the Top-->
+    <polyline points=" 85.5 75, 90 70, 94.5 75" fill="transparent" stroke="white" stroke-width="2" />
+  <!--Top Branch-->
+     <polyline points=" 86 70, 90 65, 94 70" fill="transparent" stroke="white" stroke-width="2" />
+  <!--Middle Right Tree-->
+  <!--Tree Trunk-->
+    <line x1="40" y1="75" x2="40" y2="55" stroke="white" stroke-width="1.8"/>
+  <!--Bottom Branch-->
+    <polyline points="35.5 70, 40 65, 44.5 70" fill="transparent" stroke="white" stroke-width="1.8" />
+  <!--Middle Branch-->
+    <polyline points="35.8 65, 40 60, 44.2 65" fill="transparent" stroke="white" stroke-width="1.8" />
+  <!--Top Branch-->
+    <polyline points="36 60, 40 55, 44 60"
+fill="transparent" stroke="white" stroke-width="1.8" />
+  </svg>
